@@ -1,2 +1,2 @@
 #!/bin/bsh
-find . -type f -name "*.js" -delete
+find  -type f -name "*.js" -delete
